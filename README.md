@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 <p> I'm a software engineering student 💻 with a passion for web and mobile development. I'm excited to put my knowledge and skills to use in a team environment and collaborate with others. I'm a fast learner and enjoy picking up new technologies. My aim is to keep growing and improving both my technical and soft skills through hands-on projects and problem-solving. Let's work together! 
  </p>
-- ⚡ Other facts  🎹 **I play piano** 
--  ♟ **chess**  
--  🎮 **video games**
+<h4>- ⚡ Other facts  </br> 🎹 <strong>I play piano</strong> ,  
+  ♟ <strong>chess</strong>  and
+  🎮 <strong>video games</strong> <h4>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
